@@ -1,0 +1,68 @@
+*{
+   margin: 0px;
+   margin: 10px;
+   padding: 0px;  
+}
+
+.rec1{
+   border: solid black 2px;
+   height: 250px;
+   width: 100%;
+   
+}
+
+.recP{
+   width: 20px;
+   height: 200px;
+   background-color: blueviolet;
+
+}
+
+.recG{
+   width: 400px;
+   height: 200px;
+   background-color: green;
+
+}
+
+.cirB{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+   background-color: skyblue;
+
+}
+
+
+
+
+
+
+
+.rec2{
+   border: dotted black 4px;
+   height: 300px;
+   width: 100%;
+
+   
+   box-sizing: border-box;
+   padding: 20px;
+}
+
+.recY{
+   height: 200px;
+   width: 100%;
+   background-color: burlywood;
+   box-shadow: 5px 5px 10px black  ;
+}
+
+
+.note {
+   color: navy;
+   width: 50%;
+   height: 400px;
+   margin: auto;
+   border: solid 1px black;
+   box-shadow: 2px 2px 5px black;
+   text-align: center;
+}
