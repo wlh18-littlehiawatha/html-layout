@@ -1,4 +1,33 @@
-.header {
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+.top {
+
    width: 100%;
-   height: 100px;
+   height: 15vh;
+   background-color: green;
+
+}
+
+.sa {
+
+   width: 80%;
+   height: 80vh;
+   background-color: whitesmoke;
+   margin: auto;
+
+}
+
+.sb {
+
+   width: 80%;
+   height: 5vh;
+   background-color: black;
+   margin: auto;
+}
+
+.body{
+   background-color: gainsboro;
 }
