@@ -1,28 +1,33 @@
 *{
    margin: 0px;
-   margin: 10px;
-   padding: 0px;  
+   margin: 0px;
+   
+   padding: 25px 25px 25px 25px;  
+}
+
+body{
 }
 
 .rec1{
    border: solid black 2px;
    height: 250px;
    width: 100%;
+   padding: 20px;
    
 }
 
 .recP{
    width: 20px;
-   height: 200px;
+   height: 125px;
    background-color: blueviolet;
-
+   display: inline-block;
 }
 
 .recG{
    width: 400px;
    height: 200px;
    background-color: green;
-
+   display: inline-block;
 }
 
 .cirB{
@@ -30,7 +35,8 @@
    height: 200px;
    border-radius: 50%;
    background-color: skyblue;
-
+   display: inline-block;
+   
 }
 
 
@@ -40,6 +46,7 @@
 
 
 .rec2{
+   margin-top: 10git0px 0px 0px 0px;
    border: dotted black 4px;
    height: 300px;
    width: 100%;
@@ -50,6 +57,9 @@
 }
 
 .recY{
+   box-sizing: border-box;
+   padding: 30px;
+
    height: 200px;
    width: 100%;
    background-color: burlywood;
@@ -57,7 +67,8 @@
 }
 
 
-.note {
+.note h1 {
+   padding: 100px;
    color: navy;
    width: 50%;
    height: 400px;
